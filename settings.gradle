@@ -1,0 +1,2 @@
+rootProject.name = "Fantastic Four"
+include ':app'
